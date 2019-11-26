@@ -1,11 +1,10 @@
 <idea-plugin>
     <id>cz.vookimedlo.intellij.plugin.subtle-hacker-theme</id>
-    <name>Plugin display name here</name>
-    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+    <name>IntelliJ Subtle-Hacker-Theme</name>
+    <vendor email="github@vookimedlo.cz" url="https://github.com/vookimedlo/intellij-subtle-hacker-theme">Michal Duda</vendor>
 
     <description><![CDATA[
-    Enter short description for your plugin here.<br>
-    <em>most HTML tags may be used</em>
+    IntelliJ Plugin Theme based on the famous emacs subtle-hacker-theme.<br>
     ]]></description>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
