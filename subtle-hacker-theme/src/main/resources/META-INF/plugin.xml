@@ -11,6 +11,8 @@
          on how to target different products -->
     <depends>com.intellij.modules.lang</depends>
 
+    <idea-version since-build="193"/>
+
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
         <themeProvider id="0dbbd2ac-ca5d-4333-829a-585b6bbb0384" path="/subtle_hacker_theme.theme.json"/>
