@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'cz.vookimedlo.intellij.plugin'
-version '1.0-SNAPSHOT'
+version '2019.12.5-SNAPSHOT'
 
 sourceCompatibility = 1.8
 intellij.updateSinceUntilBuild = false
@@ -23,6 +23,5 @@ intellij {
 }
 patchPluginXml {
     changeNotes """
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>"""
+      Initial release.<br>"""
 }
