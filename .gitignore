@@ -54,7 +54,7 @@ Temporary Items
 
 ### Gradle template
 .gradle
-/build/
+/subtle-hacker-theme/build/
 
 # Ignore Gradle GUI config
 gradle-app.setting
