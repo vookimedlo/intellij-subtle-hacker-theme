@@ -335,7 +335,7 @@
         </option>
         <option name="DEFAULT_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="d0d684" />
+                <option name="FOREGROUND" value="00FFFF" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -490,7 +490,7 @@
         </option>
         <option name="GROOVY_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="43" />
+                <option name="FOREGROUND" value="ffff" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -565,11 +565,6 @@
         <option name="INTERFACE_NAME_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="d197d9" />
-            </value>
-        </option>
-        <option name="Instance property reference ID">
-            <value>
-                <option name="FOREGROUND" value="660e7a" />
             </value>
         </option>
         <option name="JAVA_KEYWORD">
@@ -649,7 +644,7 @@
         </option>
         <option name="Map key">
             <value>
-                <option name="FOREGROUND" value="8000" />
+                <option name="FOREGROUND" value="e200" />
             </value>
         </option>
         <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -730,12 +725,8 @@
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
-        <option name="Static property reference ID">
-            <value>
-                <option name="FOREGROUND" value="660e7a" />
-                <option name="FONT_TYPE" value="2" />
-            </value>
-        </option>
+        <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+        <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
         <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="ffffff" />
@@ -776,7 +767,7 @@
         </option>
         <option name="Unresolved reference access">
             <value>
-                <option name="FOREGROUND" value="0" />
+                <option name="FOREGROUND" value="ff6347" />
                 <option name="EFFECT_COLOR" value="808080" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
