@@ -23,5 +23,11 @@ intellij {
 }
 patchPluginXml {
     changeNotes """
-      Initial release.<br>"""
+      Minor updates:<br />
+      <ul>
+      <li>CLion fixes,</li>
+      <li>PyCharm fixes,</li>
+      <li>Groovy fixes,</li>
+      <li>Java fixes.</li>
+      </ul>"""
 }
