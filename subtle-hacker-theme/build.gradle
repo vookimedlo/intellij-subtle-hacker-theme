@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'cz.vookimedlo.intellij.plugin'
-version '2019.12.5-SNAPSHOT'
+version '2019.12.29-SNAPSHOT'
 
 sourceCompatibility = 1.8
 intellij.updateSinceUntilBuild = false
